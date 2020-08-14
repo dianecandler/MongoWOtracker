@@ -1,0 +1,19 @@
+{
+  "name": "mongowotracker",
+  "version": "1.0.0",
+  "description": "HW17 Mongo Workout Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianecandler/MongoWOtracker.git"
+  },
+  "author": "Diane Candler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianecandler/MongoWOtracker/issues"
+  },
+  "homepage": "https://github.com/dianecandler/MongoWOtracker#readme"
+}
