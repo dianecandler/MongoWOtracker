@@ -127,7 +127,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench",
+        name: "bla bla bla",
         duration: 30,
         distance: 2
       }
