@@ -1,6 +1,6 @@
 # MongoWOtracker
 MongoDB Homework 17 NoSQL Workout Tracker
-
+![Fitness Tracker Dashboard](.\public\image.png)
 This is a Fitness Tracker application built with mongoDB, express.js, JavaScript, HTML and CSS.  Designed to store your cardio and resistance workouts after completing them and tracking your progress through the week with a summary display.  This is a fairly simple CRUD based app.
 
 ## Technologies Used
