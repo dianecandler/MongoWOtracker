@@ -13,8 +13,8 @@ mongoDB, mongoose, express.js, html, CSS
 * Improve on User Interface and mobile first aspects.
 
 ## Link to Application
-
-https://github.com/dianecandler/MongoWOtracker
+![ALT text](https://mongodb-fitness-tracker.herokuapp.com/)
+![ALT text](https://github.com/dianecandler/MongoWOtracker)
 
 
 ## User Story
@@ -36,5 +36,3 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
-
-
