@@ -13,3 +13,4 @@ async function init() {
 // this function controls the new workout/continue buttons
 // "?id=" will appear on the http link
 // else calls for button continue or none if not there...d-none is bootstrap to hide cont btn
+// Public folder is about front end.  Routes folder and files created for connecting to backend.
