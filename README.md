@@ -38,3 +38,8 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View multiple the combined weight of multiple exercises on the `stats` page.LT text
+
+  ## Code provided for exercises
+
+  * Seed code not provided in package.json so could not "npm run seed"
+  * Once data is entered in under "Complete" not as a "Continue", data is entered on the next day.  Code provided for this.  Not comfortable with this but using program provided and completing MVP for assignment.
