@@ -11,6 +11,7 @@ app.use(express.json());
 app.use(express.static("public"));
 //app.use(express.static("seeders/seed.js"));
 
+// Heroku needs line below
 const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/workout";
 // add more defintion to {} parser, use create index, etc.
 mongoose.connect(MONGODB_URI, {

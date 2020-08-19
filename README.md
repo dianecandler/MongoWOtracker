@@ -15,8 +15,8 @@ mongoDB, mongoose, express.js, html, CSS
 * Improve on User Interface and mobile first aspects.
 
 ## Link to Application
-![https://mongodb-fitness-tracker.herokuapp.com/](https://mongodb-fitness-tracker.herokuapp.com/)
-![https://github.com/dianecandler/MongoWOtracker](https://github.com/dianecandler/MongoWOtracker)
+[https://mongodb-fitness-tracker.herokuapp.com/](https://mongodb-fitness-tracker.herokuapp.com/)
+[https://github.com/dianecandler/MongoWOtracker](https://github.com/dianecandler/MongoWOtracker)
 
 
 ## User Story
