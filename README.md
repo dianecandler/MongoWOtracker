@@ -1,23 +1,29 @@
-# MongoWOtracker
-MongoDB Homework 17 NoSQL Workout Tracker
+# Workout Tracker
+
+***MongoDB NoSQL Workout Tracking Program by Diane Candler***
 
 ![Fitness Tracker Dashboard](image.png)
 
-This is a Fitness Tracker application built with mongoDB, express.js, JavaScript, HTML and CSS.  Designed to store your cardio and resistance workouts after completing them and tracking your progress through the week with a summary display.  This is a fairly simple CRUD based app.
+#  About this Application
 
-## Technologies Used
-mongoDB, mongoose, express.js, html, CSS
+* Built with mongoDB, mongoose, express.js, JavaScript, HTML and CSS.  
+* This is a fairly simple CRUD based app.
+* Designed to store daily cardio and resistance workouts summaries.
+* Able to track progress through the week with a summary display.  
 
-## Future Development
+
+### Future Development
+
 * Add the ability to review more historical data.
 * Add body weight and BMI trackers.
 * Add water consumption and calorie trackers.
 * Improve on User Interface and mobile first aspects.
 
 ## Link to Application
-* [https://mongodb-fitness-tracker.herokuapp.com/](https://mongodb-fitness-tracker.herokuapp.com/)
-* [https://github.com/dianecandler/MongoWOtracker](https://github.com/dianecandler/MongoWOtracker)
 
+* [https://mongodb-fitness-tracker.herokuapp.com/](https://mongodb-fitness-tracker.herokuapp.com/) <br>
+  *note:  currently unable to host on Heroku.  Looking for new host site.*
+* [https://github.com/dianecandler/MongoWOtracker](https://github.com/dianecandler/MongoWOtracker)
 
 ## User Story
 
@@ -27,19 +33,15 @@ mongoDB, mongoose, express.js, html, CSS
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Acceptance Criteria
 
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+ 
+# Thank you
 
-The user should be able to:
+***Your time is valuable. Thank you for taking time to review this program. Feedback is welcome at dianedcandler@gmail.com.***
 
-  * Add exercises to a previous workout plan.
+## Visit my Portfolio
 
-  * Add new exercises to a new workout plan.
+https://dianecandler.herokuapp.com/
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.LT text
-
-  ## Code provided for exercises
-
-  * Seed code not provided in package.json so could not "npm run seed"
-  * Once data is entered in under "Complete" not as a "Continue", data is entered on the next day.  Code provided for this.  Not comfortable with this but using program provided and completing MVP for assignment.
+- - -
+© 2020 Diane Candler. All Rights Reserved.
